@@ -278,37 +278,16 @@ img {
   
 }
 
+.extra_section_title {
+  text-align: center;
+  text-height: 5vh;
+}
+
 .extra_section {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background-color: bisque;
   border-radius: 20px;
   padding: 5vw;
 
-}
-
-/* .extra_section :hover {
-  transform: rotate(360deg);
-}
-
-.extra_section :hover {
-  transition: transform 2s;
-} */
-
-.extra_section_photo {
-  display: flex;
-  flex-direction: end;
-  width: 60%;
-}
-
-.extra_section_para {
-  width: 40%;
-  padding: 2vw;
-}
-
-.extra_section_para p {
-  color: var(--gray);
 }
 
 
